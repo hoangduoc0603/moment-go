@@ -5,9 +5,3 @@ type Completion struct {
 	code    int
 	message string
 }
-
-type DataCompletion struct {
-	status  bool
-	code    int
-	message string
-}
